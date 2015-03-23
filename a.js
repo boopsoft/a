@@ -1,3 +1,3 @@
-function a(){
+function window.a(){
   alert("Hello World");
 }
